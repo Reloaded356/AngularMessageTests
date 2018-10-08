@@ -8,7 +8,7 @@ export class HomeComponent {
 
     sendMessage(): void {
         // send message to subscribers via observable subject
-        this.messageService.sendMessage('Message from Home Component to App Component!');
+        this.messageService.sendMessage('Trey says, "Get off the internet, I need to use the phone!!"');
     }
 
     clearMessage(): void {
