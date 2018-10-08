@@ -1,0 +1,5 @@
+Additional Ideas for Implementation:
+
+CSS classes to override and append where messages are used in order to indicate error, warning, etc (Green, yellow, red).
+This will additionally trigger JS which would allow timing to be set on how long the modal/msg will stay active.
+JS class design should be modular, vanilla JS, and locally accessible throughout the project.
